@@ -266,7 +266,7 @@ Created by [吳柏毅](https://github.com/40623215)
 </t>
 <t tx="leo.20181109001633.2"># 學習心得
 
-* </t>
+* 前幾週因為是用以前就交過的Github以及和容易上手的Onshape，所以都沒有什麼在維護網頁，導致後面要趕一點，碰巧我的電腦裡面少了一些檔案(見下頁)，沒辦法開啟Leo，所以必須和同學借用電腦，或是上課時間之餘來完成。</t>
 <t tx="leo.20181109002205.1">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -274,7 +274,7 @@ Created by [吳柏毅](https://github.com/40623215)
 </t>
 <t tx="leo.20181109002205.2"># 遇見的問題
 
-* </t>
+https://imgur.com/a/r8Vrf03</t>
 <t tx="leo.20181109002237.1">&lt;section&gt;
 @others
 &lt;/section&gt;
