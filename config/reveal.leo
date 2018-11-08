@@ -30,6 +30,15 @@
 <v t="leo.20180827201621.13" a="E"><vh>各式內容引用範例</vh>
 <v t="leo.20181109000103.1"><vh>投影片快捷鍵</vh></v>
 </v>
+<v t="leo.20181109001633.1" a="E"><vh>各式內容引用範例</vh>
+<v t="leo.20181109001633.2"><vh>投影片快捷鍵</vh></v>
+</v>
+<v t="leo.20181109002205.1" a="E"><vh>各式內容引用範例</vh>
+<v t="leo.20181109002205.2"><vh>投影片快捷鍵</vh></v>
+</v>
+<v t="leo.20181109002237.1" a="E"><vh>各式內容引用範例</vh>
+<v t="leo.20181109002237.2"><vh>投影片快捷鍵</vh></v>
+</v>
 </v>
 </v>
 </v>
@@ -245,10 +254,34 @@ Created by [吳柏毅](https://github.com/40623215)
 </t>
 <t tx="leo.20181109000103.1"># 第四週 至 第八週
 
-*開始學習 Onshape
-*學習各種常用單字
-*執行 2D/3D 零組件設計繪圖
-*熟悉 Onshape 各個功能
-*完成每週homework與Assessment</t>
+* 開始學習 Onshape
+* 學習各種常用單字
+* 執行 2D/3D 零組件設計繪圖
+* 熟悉 Onshape 各個功能
+* 完成每週homework與Assessment</t>
+<t tx="leo.20181109001633.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20181109001633.2"># 學習心得
+
+* </t>
+<t tx="leo.20181109002205.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20181109002205.2"># 遇見的問題
+
+* </t>
+<t tx="leo.20181109002237.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20181109002237.2"># 自評成績
+
+## 70分</t>
 </tnodes>
 </leo_file>
