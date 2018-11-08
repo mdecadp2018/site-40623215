@@ -24,10 +24,10 @@
 <v t="leo.20180827201621.9" a="E"><vh>封面投影片</vh>
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20180827201621.11"><vh>快捷鍵</vh>
+<v t="leo.20180827201621.11" a="E"><vh>快捷鍵</vh>
 <v t="leo.20180827201621.12"><vh>投影片快捷鍵</vh></v>
 </v>
-<v t="leo.20181109004940.1"><vh>快捷鍵</vh>
+<v t="leo.20181109004940.1" a="E"><vh>快捷鍵</vh>
 <v t="leo.20181109004940.2"><vh>投影片快捷鍵</vh></v>
 </v>
 <v t="leo.20181109004949.1" a="E"><vh>快捷鍵</vh>
@@ -274,7 +274,8 @@ Created by [吳柏毅](https://github.com/40623215)
 </t>
 <t tx="leo.20181109004949.2"># 學習心得
 
-* 前幾週因為是用以前就交過的Github以及和容易上手的Onshape，所以都沒有什麼在維護網頁，導致後面要趕一點，碰巧我的電腦裡面少了一些檔案(見下頁)，沒辦法開啟Leo，所以必須和同學借用電腦，或是上課時間之餘來完成。</t>
+* 前幾週因為是用以前就交過的Github以及和容易上手的Onshape，所以都沒有什麼在維護網頁，導致後面要趕一點，碰巧我的電腦裡面少了一些檔案(見下頁)，沒辦法開啟Leo，所以必須和同學借用電腦，或是上課時間之餘來完成。
+就像老師說的，最後有跟上、有學會那就好了，後面雖然趕了一點，但是已經如期的完成了進度！</t>
 <t tx="leo.20181109004952.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -286,7 +287,8 @@ Created by [吳柏毅](https://github.com/40623215)
 </t>
 <t tx="leo.20181109004952.2"># 遇見的問題
 
-(https://imgur.com/a/r8Vrf03)</t>
+&lt;img src="https://imgur.com/a/r8Vrf03"&gt;
+* "當某個DLL發生問題時，所 有必須使用這個「共用材料」的程式功能就無法順利執行" 我的電腦裡不只是遺失"這一個".dll檔案，我冒著風險直接上網載dll.檔來放，卻還有少其他更多的.dll檔案，我弄了好久都無法解決，Microsoft Visual C++ Redistyibutable重新安裝..等方法都無法解決。</t>
 <t tx="leo.20181109010110.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
