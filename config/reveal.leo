@@ -296,7 +296,8 @@ Created by [吳柏毅](https://github.com/40623215)
 </t>
 <t tx="leo.20181109004952.2"># 遇見的問題
 
-&lt;img src="https://imgur.com/a/r8Vrf03"&gt;</t>
+&lt;img src="https://imgur.com/a/r8Vrf03"&gt;
+[如看不見圖片請點此連結](https://imgur.com/a/r8Vrf03)</t>
 <t tx="leo.20181109010110.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
