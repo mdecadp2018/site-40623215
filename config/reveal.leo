@@ -24,20 +24,20 @@
 <v t="leo.20180827201621.9" a="E"><vh>封面投影片</vh>
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20180827201621.11" a="E"><vh>快捷鍵</vh>
+<v t="leo.20180827201621.11"><vh>快捷鍵</vh>
 <v t="leo.20180827201621.12"><vh>投影片快捷鍵</vh></v>
 </v>
-<v t="leo.20180827201621.13" a="E"><vh>各式內容引用範例</vh>
-<v t="leo.20181109000103.1"><vh>投影片快捷鍵</vh></v>
+<v t="leo.20181109004940.1"><vh>快捷鍵</vh>
+<v t="leo.20181109004940.2"><vh>投影片快捷鍵</vh></v>
 </v>
-<v t="leo.20181109001633.1" a="E"><vh>各式內容引用範例</vh>
-<v t="leo.20181109001633.2"><vh>投影片快捷鍵</vh></v>
+<v t="leo.20181109004949.1" a="E"><vh>快捷鍵</vh>
+<v t="leo.20181109004949.2"><vh>投影片快捷鍵</vh></v>
 </v>
-<v t="leo.20181109002205.1" a="E"><vh>各式內容引用範例</vh>
-<v t="leo.20181109002205.2"><vh>投影片快捷鍵</vh></v>
+<v t="leo.20181109004952.1" a="E"><vh>快捷鍵</vh>
+<v t="leo.20181109004952.2"><vh>投影片快捷鍵</vh></v>
 </v>
-<v t="leo.20181109002237.1" a="E"><vh>各式內容引用範例</vh>
-<v t="leo.20181109002237.2"><vh>投影片快捷鍵</vh></v>
+<v t="leo.20181109010110.1" a="E"><vh>快捷鍵</vh>
+<v t="leo.20181109010110.2"><vh>投影片快捷鍵</vh></v>
 </v>
 </v>
 </v>
@@ -153,11 +153,6 @@ Created by [吳柏毅](https://github.com/40623215)
 * 學習編輯 reveal 簡報內容
 * 學習管理pelican 網誌
 * 自行掌握進度，每週拍攝操作實習影片</t>
-<t tx="leo.20180827201621.13">&lt;section&gt;
-@others
-&lt;/section&gt;
-
-</t>
 <t tx="leo.20180827201621.2"></t>
 <t tx="leo.20180827201621.3">@language xml
 @tabwidth -4
@@ -252,35 +247,56 @@ Created by [吳柏毅](https://github.com/40623215)
 
 						
 </t>
-<t tx="leo.20181109000103.1"># 第四週 至 第八週
+<t tx="leo.20181109004940.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181109004940.2"># 第四週 至 第八週
 
 * 開始學習 Onshape
 * 學習各種常用單字
 * 執行 2D/3D 零組件設計繪圖
 * 熟悉 Onshape 各個功能
 * 完成每週homework與Assessment</t>
-<t tx="leo.20181109001633.1">&lt;section&gt;
+<t tx="leo.20181109004949.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
 @others
+    &lt;/script&gt;
 &lt;/section&gt;
 
+
+						
 </t>
-<t tx="leo.20181109001633.2"># 學習心得
+<t tx="leo.20181109004949.2"># 學習心得
 
 * 前幾週因為是用以前就交過的Github以及和容易上手的Onshape，所以都沒有什麼在維護網頁，導致後面要趕一點，碰巧我的電腦裡面少了一些檔案(見下頁)，沒辦法開啟Leo，所以必須和同學借用電腦，或是上課時間之餘來完成。</t>
-<t tx="leo.20181109002205.1">&lt;section&gt;
+<t tx="leo.20181109004952.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
 @others
+    &lt;/script&gt;
 &lt;/section&gt;
 
-</t>
-<t tx="leo.20181109002205.2"># 遇見的問題
 
-https://imgur.com/a/r8Vrf03</t>
-<t tx="leo.20181109002237.1">&lt;section&gt;
+						
+</t>
+<t tx="leo.20181109004952.2"># 遇見的問題
+
+(https://imgur.com/a/r8Vrf03)</t>
+<t tx="leo.20181109010110.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
 @others
+    &lt;/script&gt;
 &lt;/section&gt;
 
+
+						
 </t>
-<t tx="leo.20181109002237.2"># 自評成績
+<t tx="leo.20181109010110.2"># 自評成績
 
 ## 70分</t>
 </tnodes>
