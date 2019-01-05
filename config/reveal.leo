@@ -30,8 +30,17 @@
 <v t="leo.20181109004940.1" a="E"><vh>快捷鍵</vh>
 <v t="leo.20181109004940.2"><vh>投影片快捷鍵</vh></v>
 </v>
+<v t="leo.20190106012837.1" a="E"><vh>快捷鍵</vh>
+<v t="leo.20190106012837.2"><vh>投影片快捷鍵</vh></v>
+</v>
+<v t="leo.20190106012902.1" a="E"><vh>快捷鍵</vh>
+<v t="leo.20190106012902.2"><vh>投影片快捷鍵</vh></v>
+</v>
 <v t="leo.20181109004949.1" a="E"><vh>快捷鍵</vh>
 <v t="leo.20181109004949.2"><vh>投影片快捷鍵</vh></v>
+<v t="leo.20190106014001.1" a="E"><vh>快捷鍵</vh>
+<v t="leo.20190106014001.2"><vh>投影片快捷鍵</vh></v>
+</v>
 </v>
 <v t="leo.20181109004952.1" a="E"><vh>快捷鍵</vh>
 <v t="leo.20181109004952.2"><vh>投影片快捷鍵</vh></v>
@@ -297,7 +306,9 @@ Created by [吳柏毅](https://github.com/40623215)
 <t tx="leo.20181109004952.2"># 遇見的問題
 
 &lt;img src="https://imgur.com/a/r8Vrf03"&gt;
-[如看不見圖片請點此連結](https://imgur.com/a/r8Vrf03)</t>
+[如看不見圖片請點此連結](https://imgur.com/a/r8Vrf03)
+
+</t>
 <t tx="leo.20181109010110.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -325,6 +336,46 @@ Created by [吳柏毅](https://github.com/40623215)
 
 * "當某個DLL發生問題時，所 有必須使用這個「共用材料」的程式功能就無法順利執行" 我的電腦裡不只是遺失"這一個".dll檔案，我冒著風險直接上網載dll.檔來放，卻還有少其他更多的.dll檔案，我弄了好久都無法解決，Microsoft Visual C++ Redistyibutable重新安裝..等方法都無法解決。
 
+</t>
+<t tx="leo.20190106012837.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190106012837.2"># 第十週 至 第十四週
+
+* 熟用 Onshape
+* 了解Onshape中各種常用功能單字
+* 分組開始討論專題
+* 訂定題目後開始討論
+* 完成Onshape手冊製作</t>
+<t tx="leo.20190106012902.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190106012902.2"># 第十五週 至 第十七週
+
+* 小組內分工合作完成專題
+* 協同組員資料完成專題</t>
+<t tx="leo.20190106014001.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190106014001.2">#測試
 </t>
 </tnodes>
 </leo_file>
