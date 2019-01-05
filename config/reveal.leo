@@ -321,7 +321,7 @@ Created by [吳柏毅](https://github.com/40623215)
 </t>
 <t tx="leo.20181109010110.2"># 自評成績
 
-## 70分
+## 75分
 
 </t>
 <t tx="leo.20181109012629.1">&lt;section data-markdown&gt;
