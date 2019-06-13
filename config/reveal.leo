@@ -33,23 +33,8 @@
 <v t="leo.20190106012837.1" a="E"><vh>快捷鍵</vh>
 <v t="leo.20190106012837.2"><vh>投影片快捷鍵</vh></v>
 </v>
-<v t="leo.20190106012902.1" a="E"><vh>快捷鍵</vh>
-<v t="leo.20190106012902.2"><vh>投影片快捷鍵</vh></v>
-</v>
-<v t="leo.20181109004949.1" a="E"><vh>快捷鍵</vh>
-<v t="leo.20181109004949.2"><vh>投影片快捷鍵</vh></v>
-</v>
-<v t="leo.20190106020606.1" a="E"><vh>快捷鍵</vh>
-<v t="leo.20190106020606.2"><vh>投影片快捷鍵</vh></v>
-</v>
 <v t="leo.20181109004952.1" a="E"><vh>快捷鍵</vh>
 <v t="leo.20181109004952.2"><vh>投影片快捷鍵</vh></v>
-</v>
-<v t="leo.20181109012629.1" a="E"><vh>快捷鍵</vh>
-<v t="leo.20181109012629.2"><vh>投影片快捷鍵</vh></v>
-</v>
-<v t="leo.20181109010110.1" a="E"><vh>快捷鍵</vh>
-<v t="leo.20181109010110.2"><vh>投影片快捷鍵</vh></v>
 </v>
 </v>
 </v>
@@ -148,9 +133,7 @@ Created by [吳柏毅](https://github.com/40623215)
 
 &lt;small&gt;
 [回到網頁](https://mdecadp2018.github.io/site-40623215/content/index.html)
-&lt;small&gt;
-
-</t>
+&lt;small&gt;</t>
 <t tx="leo.20180827201621.11">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -160,15 +143,11 @@ Created by [吳柏毅](https://github.com/40623215)
 
 						
 </t>
-<t tx="leo.20180827201621.12"># 第一週 至 第三週
+<t tx="leo.20180827201621.12">## 第十週 至 第十一週
 
-* 建立個人課程網頁
-* 學習如何管理 CMSimfly 靜態網頁
-* 學習編輯 reveal 簡報內容
-* 學習管理pelican 網誌
-* 自行掌握進度，每週拍攝操作實習影片
-
-</t>
+* [完成送球機構"初版"](https://mdekmol.github.io/cd2019b-task1-2019cdb_t1_g2/content/%E9%80%81%E7%90%83%E6%A9%9F%E6%A7%8B%E8%A8%AD%E8%A8%88%E8%88%87%E6%A8%A1%E6%93%AC.html)
+* 討論可行性、問題點
+* 修改初版桌台</t>
 <t tx="leo.20180827201621.2"></t>
 <t tx="leo.20180827201621.3">@language xml
 @tabwidth -4
@@ -272,31 +251,11 @@ Created by [吳柏毅](https://github.com/40623215)
 
 						
 </t>
-<t tx="leo.20181109004940.2"># 第四週 至 第八週
+<t tx="leo.20181109004940.2">## 第十二週 至 第十三週
 
-* 開始學習 Onshape
-* 學習各種常用單字
-* 執行 2D/3D 零組件設計繪圖
-* 熟悉 Onshape 各個功能
-* 完成每週homework與Assessment
-
-</t>
-<t tx="leo.20181109004949.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20181109004949.2"># 學習心得
-
-* 第一週至第八週
-* 前幾週因為是用以前就交過的Github以及和容易上手的Onshape，所以都沒有什麼在維護網頁，導致後面要趕一點，碰巧我的電腦裡面少了一些檔案(見下頁)，沒辦法開啟Leo，所以必須和同學借用電腦，或是上課時間之餘來完成。
-就像老師說的，最後有跟上、有學會那就好了，後面雖然趕了一點，但是已經如期的完成了進度！
-
-</t>
+* [送球機構初版桌檯完成](https://imgur.com/a/4xUWohD)
+* 與組員討論，想出一個新的自動回球桌檯
+* 協助V-rep組模擬</t>
 <t tx="leo.20181109004952.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -306,40 +265,14 @@ Created by [吳柏毅](https://github.com/40623215)
 
 						
 </t>
-<t tx="leo.20181109004952.2"># 遇見的問題
+<t tx="leo.20181109004952.2">## 自評成績
 
-&lt;img src="https://imgur.com/a/r8Vrf03"&gt;
-[如看不見圖片請點此連結](https://imgur.com/a/r8Vrf03)
-
-</t>
-<t tx="leo.20181109010110.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20181109010110.2"># 自評成績
-
-## 75分
-
-</t>
-<t tx="leo.20181109012629.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20181109012629.2"># 遇見的問題
-
-* "當某個DLL發生問題時，所 有必須使用這個「共用材料」的程式功能就無法順利執行" 我的電腦裡不只是遺失"這一個".dll檔案，我冒著風險直接上網載dll.檔來放，卻還有少其他更多的.dll檔案，我弄了好久都無法解決，Microsoft Visual C++ Redistyibutable重新安裝..等方法都無法解決。
-
-</t>
+### 學員出席(20%)：20分
+### Github倉儲管理(20%)：10分
+### Onshape協同操作(20%)：17分
+### V-rep模擬(20%)：12分
+### 程式開發(20%)：3分
+### 總分：62分</t>
 <t tx="leo.20190106012837.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -349,44 +282,10 @@ Created by [吳柏毅](https://github.com/40623215)
 
 						
 </t>
-<t tx="leo.20190106012837.2"># 第十週 至 第十四週
+<t tx="leo.20190106012837.2">## 第十四週 至 第十六週
 
-* 熟用 Onshape
-* 了解Onshape中各種常用功能單字
-* 分組開始討論專題
-* 訂定題目後開始討論
-* 完成Onshape手冊製作
-
-</t>
-<t tx="leo.20190106012902.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20190106012902.2"># 第十五週 至 第十七週
-
-* 小組內分工合作完成專題
-* 協同組員資料完成專題
-
-</t>
-<t tx="leo.20190106020606.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20190106020606.2"># 學習心得
-
-* 第十週至第十七週
-* 期中考完過後不是結束，而是新的開始，緊接著的就是分組專題!沒想到兩個班就只有我們做"摺疊自行車"，在設計自行車的各種機構都讓我們感到非常新奇，每次都不知不覺畫了一整天過去!Onshape使用不久後就摸透了，真的是非常方便的一個工具，在未來可以加以運用!
-
-</t>
+* [送球機構二版完成](https://mdekmol.github.io/cd2019b-task1-2019cdb_t1_g2/content/%E9%9B%B6%E7%B5%84%E4%BB%B6%E5%B0%BA%E5%AF%B8%E5%88%86%E6%9E%90.html)
+* 協助V-rep組模擬
+* 統整期末資料</t>
 </tnodes>
 </leo_file>
