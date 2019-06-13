@@ -138,13 +138,14 @@ QLineEdit#editorLabel {
 vertical: body pane on the botton</t>
 <t tx="leo.20180827201621.1"></t>
 <t tx="leo.20180827201621.10">## 2019 Spring 期末簡報
-###協同產品設計實習
+### 協同產品設計實習
 
 ### 虎科大機械設計工程系
 
 &lt;small&gt;
 Created by [吳柏毅](https://github.com/40623215)
 &lt;/small&gt;
+
 &lt;small&gt;
 [回到網頁](https://mdecadp2018.github.io/site-40623215/content/index.html)
 &lt;small&gt;
@@ -166,7 +167,7 @@ Created by [吳柏毅](https://github.com/40623215)
 * 學習編輯 reveal 簡報內容
 * 學習管理pelican 網誌
 * 自行掌握進度，每週拍攝操作實習影片
-*222222222222222
+
 </t>
 <t tx="leo.20180827201621.2"></t>
 <t tx="leo.20180827201621.3">@language xml
