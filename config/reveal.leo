@@ -137,16 +137,17 @@ QLineEdit#editorLabel {
 <t tx="leo.20180827201556.3">horizontal: body pane to the left
 vertical: body pane on the botton</t>
 <t tx="leo.20180827201621.1"></t>
-<t tx="leo.20180827201621.10">## 2018Fall 期中簡報
+<t tx="leo.20180827201621.10">## 2019 Spring 期末簡報
+###協同產品設計實習
 
 ### 虎科大機械設計工程系
 
 &lt;small&gt;
 Created by [吳柏毅](https://github.com/40623215)
 &lt;/small&gt;
-
-[40623215靜態網頁](https://mdecadp2018.github.io/site-40623215/content/index.html)
-
+&lt;small&gt;
+[回到網頁](https://mdecadp2018.github.io/site-40623215/content/index.html)
+&lt;small&gt;
 
 </t>
 <t tx="leo.20180827201621.11">&lt;section data-markdown&gt;
@@ -383,6 +384,8 @@ Created by [吳柏毅](https://github.com/40623215)
 <t tx="leo.20190106020606.2"># 學習心得
 
 * 第十週至第十七週
-* 期中考完過後不是結束，而是新的開始，緊接著的就是分組專題!沒想到兩個班就只有我們做"摺疊自行車"，在設計自行車的各種機構都讓我們感到非常新奇，每次都不知不覺畫了一整天過去!Onshape使用不久後就摸透了，真的是非常方便的一個工具，在未來可以加以運用!</t>
+* 期中考完過後不是結束，而是新的開始，緊接著的就是分組專題!沒想到兩個班就只有我們做"摺疊自行車"，在設計自行車的各種機構都讓我們感到非常新奇，每次都不知不覺畫了一整天過去!Onshape使用不久後就摸透了，真的是非常方便的一個工具，在未來可以加以運用!
+
+</t>
 </tnodes>
 </leo_file>
